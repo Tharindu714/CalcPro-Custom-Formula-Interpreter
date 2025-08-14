@@ -1,4 +1,4 @@
-# CalcPro — Custom Formula Interpreter 📐e = ∑∞ⁿ⁼⁰ ¹ₙ🤓
+# CalcPro - Custom Formula Interpreter 📐e = ∑∞ⁿ⁼⁰ ¹ₙ🤓
 
 <p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/203527cb-a4a9-4e14-895b-43b1bdce3f12" /></p> 
 
